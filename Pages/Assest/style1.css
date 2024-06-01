@@ -8,7 +8,7 @@
 
 .haek {
   /* float: right; */
-  /* clear: left; */
+  clear: left;
   width: 100px;
   height: 100px;
 }
