@@ -1,0 +1,26 @@
+.searchInput {
+  width: 400px;
+  height: 100px;
+  background-color: #5a0909;
+  font-family: "Poppins", sans-serif;
+}
+
+#search-input1 {
+  font-size: 56px;
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+}
+
+#linkage {
+  text-decoration: none;
+  color: #2b2b2b;
+}
+
+.paraLine {
+  line-height: 48px;
+  letter-spacing: 20px;
+}
+
+.sectioLast {
+  background-color: aliceblue;
+}
